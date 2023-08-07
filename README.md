@@ -1,6 +1,6 @@
 # 0MultiplyN's introduction
 - I am a student majoring in Computer Science and Information Engineering at [CCU.](https://www.ccu.edu.tw/)
-- Currently, I am diligently working on my [graduation project.](https://github.com/howcat/ABY)
+- Besides, I am diligently working on my [graduation project.](https://github.com/howcat/ABY)
 ## 📊 Github stats
 ### RECORD
 
